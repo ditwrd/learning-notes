@@ -38,7 +38,21 @@ You need to the correct nameserver from the domain provider
 ## NodeJS
 
 ## Application Architecture
-- 
+- Architecture is essential (basically tech debt)
+
+
+## Application Setup
+
+## Proxy Passing
+- Test nginx config with `nginx -t`
+
+## Process Manager
+- pm2
+
+## Version Control
+- Git things
+
+
 
 
 Tips: 
