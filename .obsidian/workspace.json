@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack for Front-End Engineer/01 Introduction.md",
+                "file": "Full Stack for Front-End Engineer/04 Server Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,10 +175,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b8b77b1485b87576",
+  "active": "a9079ebff0b47575",
   "lastOpenFiles": [
-    "Full Stack for Front-End Engineer/03 Servers.md",
     "Full Stack for Front-End Engineer/01 Introduction.md",
+    "Full Stack for Front-End Engineer/03 Servers.md",
     "Full Stack for Front-End Engineer/02 Understanding the Internet.md",
     "Assets/Pasted image 20221018001810.png",
     "Full Stack for Front-End Engineer/Introduction/Untitled.md"
