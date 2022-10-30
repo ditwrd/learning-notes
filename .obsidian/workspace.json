@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e7a9245c9c518f",
+            "id": "24952cb14edf3654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/03 Internals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fd516887bb7b46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
+                "file": "08 Express.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
+                "file": "08 Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
+                "file": "08 Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md"
+                "file": "08 Express.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8b77b1485b87576",
+  "active": "24952cb14edf3654",
   "lastOpenFiles": [
+    "02 Complete NodeJS Developer in 2022/07 Web Server.md",
+    "08 Express.md",
+    "02 Complete NodeJS Developer in 2022/06 Project Earth.md",
+    "02 Complete NodeJS Developer in 2022/05 Package Management.md",
+    "02 Complete NodeJS Developer in 2022/04 Module System.md",
     "02 Complete NodeJS Developer in 2022/03 Internals.md",
     "02 Complete NodeJS Developer in 2022/01 Introduction.md",
     "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md",
     "01 Full Stack for Front-End Engineer/08 HTTP.md",
-    "01 Full Stack for Front-End Engineer/09 Containers.md",
-    "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
-    "01 Full Stack for Front-End Engineer/07 Security.md",
-    "01 Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
-    "01 Full Stack for Front-End Engineer/05 Bash Basics.md",
-    "01 Full Stack for Front-End Engineer/04 Server Setup.md"
+    "01 Full Stack for Front-End Engineer/09 Containers.md"
   ]
 }

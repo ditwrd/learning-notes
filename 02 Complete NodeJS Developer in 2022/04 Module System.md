@@ -6,4 +6,12 @@
 ## Node Modules
 - making library
 
-alot in code
+## CommonJS and ESM
+- ESM use import rather than require
+
+## Module caching
+- require only do things once and global
+
+## index.js
+- basically the same with __init__.py
+0

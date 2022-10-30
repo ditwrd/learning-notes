@@ -1,0 +1,7 @@
+- have used express before, going to note some new things
+- loggin middleware needed to be set as the first middleware
+- MVC
+	- User uses controller
+	- controller manipulates model
+	- model updates view
+	- user see updated view
