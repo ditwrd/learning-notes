@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d02c9534579015b6",
+        "id": "3138e8e92eeda10e",
         "type": "tabs",
         "children": [
           {
-            "id": "69b15d78b8179987",
+            "id": "2c176f328c068883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Full Stack for Front-End Engineer/08 HTTP.md",
+                "file": "02 Complete NodeJS Developer in 2022/01 Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c390b3d62311b0d",
+            "id": "f4d3702aa3d3e050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Full Stack for Front-End Engineer/09 Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e937667a6361ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
+                "file": "Foundation and Environmental Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
+                "file": "Foundation and Environmental Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
+                "file": "Foundation and Environmental Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md"
+                "file": "Foundation and Environmental Setup.md"
               }
             }
           }
@@ -162,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8b77b1485b87576",
+  "active": "f4d3702aa3d3e050",
   "lastOpenFiles": [
-    "01 Full Stack for Front-End Engineer/09 Containers.md",
+    "02 Complete NodeJS Developer in 2022/01 Introduction.md",
     "01 Full Stack for Front-End Engineer/08 HTTP.md",
+    "01 Full Stack for Front-End Engineer/09 Containers.md",
+    "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
     "01 Full Stack for Front-End Engineer/07 Security.md",
     "01 Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
     "01 Full Stack for Front-End Engineer/05 Bash Basics.md",
     "01 Full Stack for Front-End Engineer/04 Server Setup.md",
     "01 Full Stack for Front-End Engineer/02 Understanding the Internet.md",
-    "01 Full Stack for Front-End Engineer/03 Servers.md",
-    "01 Full Stack for Front-End Engineer/01 Introduction.md",
-    "00 Assets/Pasted image 20221018001810.png"
+    "01 Full Stack for Front-End Engineer/03 Servers.md"
   ]
 }
