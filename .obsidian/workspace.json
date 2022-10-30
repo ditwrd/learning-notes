@@ -8,91 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9079ebff0b47575",
+            "id": "69b15d78b8179987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack for Front-End Engineer/04 Server Setup.md",
+                "file": "01 Full Stack for Front-End Engineer/08 HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "819c0ecfa568ab3c",
+            "id": "5c390b3d62311b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack for Front-End Engineer/05 Bash Basics.md",
+                "file": "01 Full Stack for Front-End Engineer/09 Containers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74c2f7cc87963d69",
+            "id": "9e937667a6361ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f2faa01529d8c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Full Stack for Front-End Engineer/07 Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "927e4e5f784a8a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Full Stack for Front-End Engineer/02 Understanding the Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e256025942d8b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Full Stack for Front-End Engineer/03 Servers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "501c8074039ebd57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Full Stack for Front-End Engineer/04 Server Setup.md",
+                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -158,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack for Front-End Engineer/07 Security.md",
+                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack for Front-End Engineer/07 Security.md",
+                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack for Front-End Engineer/07 Security.md"
+                "file": "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md"
               }
             }
           }
@@ -209,19 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "b8b77b1485b87576",
   "lastOpenFiles": [
-    "Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
-    "Full Stack for Front-End Engineer/07 Security.md",
-    "Full Stack for Front-End Engineer/05 Bash Basics.md",
-    "Full Stack for Front-End Engineer/04 Server Setup.md",
-    "Full Stack for Front-End Engineer/01 Introduction.md",
-    "Full Stack for Front-End Engineer/03 Servers.md",
-    "Full Stack for Front-End Engineer/02 Understanding the Internet.md",
-    "Assets/Pasted image 20221018001810.png",
-    "Full Stack for Front-End Engineer/Introduction/Untitled.md"
+    "01 Full Stack for Front-End Engineer/09 Containers.md",
+    "01 Full Stack for Front-End Engineer/08 HTTP.md",
+    "01 Full Stack for Front-End Engineer/07 Security.md",
+    "01 Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
+    "01 Full Stack for Front-End Engineer/05 Bash Basics.md",
+    "01 Full Stack for Front-End Engineer/04 Server Setup.md",
+    "01 Full Stack for Front-End Engineer/02 Understanding the Internet.md",
+    "01 Full Stack for Front-End Engineer/03 Servers.md",
+    "01 Full Stack for Front-End Engineer/01 Introduction.md",
+    "00 Assets/Pasted image 20221018001810.png"
   ]
 }
