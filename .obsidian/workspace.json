@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c176f328c068883",
+            "id": "88e7a9245c9c518f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/01 Introduction.md",
+                "file": "02 Complete NodeJS Developer in 2022/03 Internals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4d3702aa3d3e050",
+            "id": "3fd516887bb7b46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md",
+                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md",
+                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md",
+                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md"
+                "file": "02 Complete NodeJS Developer in 2022/04 Module System.md"
               }
             }
           }
@@ -150,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4d3702aa3d3e050",
+  "active": "b8b77b1485b87576",
   "lastOpenFiles": [
+    "02 Complete NodeJS Developer in 2022/03 Internals.md",
     "02 Complete NodeJS Developer in 2022/01 Introduction.md",
+    "02 Complete NodeJS Developer in 2022/02 Foundation and Environmental Setup.md",
     "01 Full Stack for Front-End Engineer/08 HTTP.md",
     "01 Full Stack for Front-End Engineer/09 Containers.md",
     "01 Full Stack for Front-End Engineer/10 Files & Databases Overview.md",
     "01 Full Stack for Front-End Engineer/07 Security.md",
     "01 Full Stack for Front-End Engineer/06 Nginx Config Basics.md",
     "01 Full Stack for Front-End Engineer/05 Bash Basics.md",
-    "01 Full Stack for Front-End Engineer/04 Server Setup.md",
-    "01 Full Stack for Front-End Engineer/02 Understanding the Internet.md",
-    "01 Full Stack for Front-End Engineer/03 Servers.md"
+    "01 Full Stack for Front-End Engineer/04 Server Setup.md"
   ]
 }
